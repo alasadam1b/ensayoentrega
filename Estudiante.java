@@ -2,7 +2,7 @@
 /**
  *  Descripción de un estudiante
  * 
- * @author - Adrián Las
+ * @author - Adrian Las
  * @version (1.10.21)
  *  
  */
