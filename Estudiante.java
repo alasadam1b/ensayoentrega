@@ -2,7 +2,8 @@
 /**
  *  Descripción de un estudiante
  * 
- * @author - Montse 
+ * @author - Adrián
+ * @version (1.10.21)
  *  
  */
 public class Estudiante
